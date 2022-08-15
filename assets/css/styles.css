@@ -437,6 +437,7 @@ con trực tiếp của thẻ nav */
 .map-section img {
     width: 100%;
     margin-bottom: -4px;
+    filter: grayscale(50%);
 }
 
 #footer {
